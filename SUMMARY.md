@@ -7,6 +7,12 @@
 * [Design tenets](basics/design-tenets.md)
 * [Glossary](basics/glossary.md)
 
+## How trading works
+
+* [The trade path, end to end](trading/overview.md)
+* [Market vaults](trading/market-vaults.md)
+* [The price formula](trading/price-formula.md)
+
 ## Assets
 
 * [Stock Tokens](assets/stock-tokens.md)
