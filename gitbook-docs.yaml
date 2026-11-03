@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: Canopic
+  structure:
+    - type: space
+      key: space-docs
+      title: Canopic Docs
+      path: docs
+      default: true
+      content:
+        directory: ./
