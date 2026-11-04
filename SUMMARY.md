@@ -12,6 +12,9 @@
 * [The trade path, end to end](trading/overview.md)
 * [Market vaults](trading/market-vaults.md)
 * [The price formula](trading/price-formula.md)
+* [Market hours and pricing modes](trading/market-hours.md)
+* [Large orders and signed maker quotes](trading/large-orders.md)
+* [How the router picks a venue](trading/routing.md)
 
 ## Assets
 
