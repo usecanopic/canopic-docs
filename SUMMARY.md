@@ -25,3 +25,11 @@
 * [Listing policy](assets/listing-policy.md)
 * [Settling in USDG](assets/usdg.md)
 * [Next asset classes](assets/next-asset-classes.md)
+
+## Risk
+
+* [Risk framework](risk/framework.md)
+* [Oracle safeguards](risk/oracle-safeguards.md)
+* [Chain outages and sequencer faults](risk/chain-incidents.md)
+* [Issuer exposure](risk/issuer-exposure.md)
+* [Lessons from earlier tokenized venues](risk/lessons.md)
