@@ -15,6 +15,9 @@
 * [Market hours and pricing modes](trading/market-hours.md)
 * [Large orders and signed maker quotes](trading/large-orders.md)
 * [How the router picks a venue](trading/routing.md)
+* [Providing liquidity to a vault](trading/providing-liquidity.md)
+* [Corporate actions](trading/corporate-actions.md)
+* [Fees and spreads](trading/fees.md)
 
 ## Assets
 
