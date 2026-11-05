@@ -40,6 +40,17 @@
 * [Wallet and RPC setup](chain/wallet-setup.md)
 * [Ecosystem integrations](chain/ecosystem.md)
 
+## Architecture
+
+* [Architecture overview](architecture/overview.md)
+* [On-chain components](architecture/onchain-components.md)
+* [Off-chain services](architecture/offchain-services.md)
+* [Eligibility checks](architecture/eligibility.md)
+* [API and SDK for builders](architecture/api-and-sdk.md)
+* [Security program](architecture/security.md)
+* [Deployments and versions](architecture/deployments.md)
+* [The Canopic app](architecture/app.md)
+
 ## Compliance
 
 * [Regulatory stance](compliance/regulatory-stance.md)
