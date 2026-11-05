@@ -33,3 +33,9 @@
 * [Chain outages and sequencer faults](risk/chain-incidents.md)
 * [Issuer exposure](risk/issuer-exposure.md)
 * [Lessons from earlier tokenized venues](risk/lessons.md)
+
+## Robinhood Chain
+
+* [Building on Robinhood Chain](chain/robinhood-chain.md)
+* [Wallet and RPC setup](chain/wallet-setup.md)
+* [Ecosystem integrations](chain/ecosystem.md)
