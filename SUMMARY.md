@@ -39,3 +39,8 @@
 * [Building on Robinhood Chain](chain/robinhood-chain.md)
 * [Wallet and RPC setup](chain/wallet-setup.md)
 * [Ecosystem integrations](chain/ecosystem.md)
+
+## Compliance
+
+* [Regulatory stance](compliance/regulatory-stance.md)
+* [Legal structure](compliance/legal-structure.md)
