@@ -51,7 +51,31 @@
 * [Deployments and versions](architecture/deployments.md)
 * [The Canopic app](architecture/app.md)
 
+## Walkthroughs
+
+* [Place your first trade](walkthroughs/place-a-trade.md)
+* [Fund a vault](walkthroughs/fund-a-vault.md)
+* [Quote as a maker](walkthroughs/quote-as-a-maker.md)
+* [Use the ledger](walkthroughs/use-the-ledger.md)
+
 ## Compliance
 
 * [Regulatory stance](compliance/regulatory-stance.md)
 * [Legal structure](compliance/legal-structure.md)
+
+## Transparency
+
+* [Our guarantees](transparency/guarantees.md)
+* [Execution quality reports](transparency/execution-quality.md)
+* [Changing protocol settings](transparency/settings-changes.md)
+
+## Roadmap
+
+* [Milestones](roadmap/milestones.md)
+
+## Reference
+
+* [Business model](reference/business-model.md)
+* [FAQ](reference/faq.md)
+* [Media kit and official channels](reference/media-kit.md)
+* [Sources and further reading](reference/sources.md)
