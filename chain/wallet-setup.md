@@ -1,5 +1,5 @@
 ---
-description: Robinhood Chain reference: network ID, chain behaviour, supported standards and the Chainlink products Canopic uses.
+description: "Robinhood Chain reference: network ID, chain behaviour, supported standards and the Chainlink products Canopic uses."
 ---
 
 # Wallet and RPC setup
